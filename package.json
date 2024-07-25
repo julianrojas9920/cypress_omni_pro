@@ -1,0 +1,25 @@
+{
+  "name": "cypress_test_omni_pro",
+  "version": "1.0.0",
+  "description": "Test of Omni Pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianrojas9920/cypress_omni_pro.git"
+  },
+  "keywords": [
+    "Test",
+    "Omni",
+    "Pro",
+    "Cypress"
+  ],
+  "author": "Julian Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianrojas9920/cypress_omni_pro/issues"
+  },
+  "homepage": "https://github.com/julianrojas9920/cypress_omni_pro#readme"
+}
