@@ -4,7 +4,9 @@
   "description": "Test of Omni Pro",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/julianrojas9920/cypress_omni_pro/issues"
   },
-  "homepage": "https://github.com/julianrojas9920/cypress_omni_pro#readme"
+  "homepage": "https://github.com/julianrojas9920/cypress_omni_pro#readme",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
 }
